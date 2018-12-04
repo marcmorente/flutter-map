@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   "{id}/{z}/{x}/{y}@2x.png?access_token={accessToken}",
               additionalOptions: {
                 'accessToken':
-                    'pk.eyJ1IjoiZXRobmVyb20iLCJhIjoiY2pwYTljMzB4MXRoaDNxbzNjbWJxYWF4aCJ9.ra6rQd5-vvZS7KLJ0Ip5rA',
+                    '<PUT_ACCESS_TOKEN_HERE>',
                 'id': 'mapbox.streets'
               },
             ),
